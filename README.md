@@ -1,16 +1,43 @@
-# social_feed
+# 🖤 Social Feed App  
 
-A new Flutter project.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=0FF0FC&center=true&vCenter=true&width=700&lines=Modern+Social+Platform;Connect+•+Share+•+Engage;Flutter+Powered+App;Clean+%26+Scalable+Architecture" />
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Active-00FFAB?style=for-the-badge">
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ⚡ Overview  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Social Feed App** is a modern, scalable mobile application built using **Flutter**, designed to deliver a seamless social experience.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built with a focus on **performance, clean architecture, and intuitive UI/UX**.  
+
+---
+
+## 🚀 Core Features  
+
+- 📝 Create & share posts  
+- ❤️ Like & interact  
+- 💬 Comment system  
+- 📰 Dynamic feed  
+- 👤 User profiles  
+- 🔔 Notifications  
+
+---
+
+## 🧠 Architecture  
+
+```text
+Presentation Layer (UI)
+        ↓
+State Management
+        ↓
+Business Logic
+        ↓
+Data Layer (API / DB)
