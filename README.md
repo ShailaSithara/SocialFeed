@@ -30,6 +30,13 @@ Built with a focus on **performance, clean architecture, and intuitive UI/UX**.
 - 🔔 Notifications  
 
 ---
+## 📱 App Preview  
+
+<p align="center">
+  <img src="./1.jpeg" width="180"/>
+  <img src="./2.jpeg" width="180"/>
+  <img src="./3.jpeg" width="180"/>
+</p>
 
 ## 🧠 Architecture  
 
